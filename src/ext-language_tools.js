@@ -1198,7 +1198,7 @@ dom.importCssString("\
     text-shadow: 0 0 0.01em;\
 }\
 .ace_editor.ace_autocomplete {\
-    width: 280px;\
+    width: 580px;\
     z-index: 200000;\
     background: #fbfbfb;\
     color: #444;\
